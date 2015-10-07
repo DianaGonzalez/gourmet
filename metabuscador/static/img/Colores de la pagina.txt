@@ -1,0 +1,6 @@
+			background-image: -moz-linear-gradient(top, #8A0829, transparent);
+			background-image: -ms-linear-gradient(top, #B40431, transparent);
+			background-image: -o-linear-gradient(top, #DF013A, transparent);
+			background-image: -webkit-gradient(linear, center top, center bottom, from(#FF0040), to(transparent));
+			background-image: -webkit-linear-gradient(top, #F5A9BC, transparent);
+			background-image: linear-gradient(top, #F5A9BC, tra    nsparent);
